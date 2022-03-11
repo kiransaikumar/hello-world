@@ -5,4 +5,4 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 This repository is built step by step in the tutorial.
 i created a new repo in github.
 
-i created another line in github to know anout pull command
+i created another line in github to know about pull command
